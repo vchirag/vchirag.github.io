@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+# profile:
+#   align: right
+#   image: prof_pic.jpeg
+#   image_cicular: false # crops the image to make it circular
+#   #address: >
+#   #  <p>555 your office number</p>
+#   #  <p>123 your address street</p>
+#   #  <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Hello, I am <b>Chirag Verma (चिराग वर्मा)</b>, and I'm a post-graduate physics student at the <b>Indian Institute of Technology, Roorkee, India</b>.  Currently, I am working on my Master's thesis broadly based on applied nanophotonics and material sciences.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I fiddle with all sorts of things, and I fancy the sciences. I had a very turbulent journey while trying to identify my research interests, and I doubt that I have still managed to do so. A few of my research interests (current and past) include theoretical and computational high energy physics, computational astronomy, and photonics. Occasionally, you might catch me redhanded with a book on biology in my hand.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+There is a slight chance you might find me admiring chipmunks and sparrows that cohabitate in our surroundings. If not, I might be playing my classical guitar or any other fretted stringed instrument.
