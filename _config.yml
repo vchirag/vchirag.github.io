@@ -76,7 +76,7 @@ linkedin_username: vchirag24 # your LinkedIn user name
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 
-google_site_verification: EhJCFxkEWO_wt4rl43Tn7Y0h7d40uLtNxbP5_b790HQ # your google-site-verification ID (Google Search Console)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 
 # -----------------------------------------------------------------------------
 # Blog
