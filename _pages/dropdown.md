@@ -1,12 +1,12 @@
 ---
 layout: page
-title: submenus
+title: ACADEMIC
 nav: true
-nav_order: 5
+nav_order: 3
 dropdown: true
 children: 
-    - title: publications
-      permalink: /publications/
+    - title: Courses Undertaken
+      permalink: /courses/
     - title: divider
     - title: projects
       permalink: /projects/
