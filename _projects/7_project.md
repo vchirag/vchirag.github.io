@@ -11,6 +11,7 @@ importance: 7
 ##### Final Report
 A copy of the final report can be found <a href = "/assets/pdf/plasma_2020.pdf" title = "plasma_2020"> here</a>.
 
+Detailed calculations can be found in the <a href = "https://github.com/vchirag/random_excursions/blob/main/plasma_2020_calculations.pdf" title = "detailed_calcs">appendix</a>.
 <hr>
 
 ##### Skills acquired

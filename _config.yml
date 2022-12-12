@@ -85,10 +85,10 @@ google_site_verification: EhJCFxkEWO_wt4rl43Tn7Y0h7d40uLtNxbP5_b790HQ # your goo
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Chirag Verma # blog_name will be displayed in your blog page
-blog_nav_title: BLOG # your blog must have a title for it to be displayed in the nav bar
-blog_description: desc
-permalink: /blog/:year/:title/
+# blog_name: Chirag Verma # blog_name will be displayed in your blog page
+# blog_nav_title: BLOG # your blog must have a title for it to be displayed in the nav bar
+# blog_description: desc
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
