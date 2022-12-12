@@ -2,12 +2,12 @@
 layout: page
 title: ACADEMIC
 nav: true
-nav_order: 3
+nav_order: 2
 dropdown: true
 children: 
-    - title: Courses Undertaken
+    - title: COURSES UNDERTAKEN
       permalink: /courses/
     - title: divider
-    - title: projects
-      permalink: /projects/
+    - title: INDEPENDENT STUDY and LECTURE NOTES
+      permalink: /independent/
 ---

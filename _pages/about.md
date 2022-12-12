@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello, I am <b>Chirag Verma (चिराग वर्मा)</b>, and I'm a post-graduate physics student at the <b>Indian Institute of Technology, Roorkee, India</b>.  Currently, I am working on my Master's thesis broadly based on applied nanophotonics and material sciences.
 
-I fiddle with all sorts of things, and I fancy the sciences. I had a very turbulent journey while trying to identify my research interests, and I doubt that I have still managed to do so. A few of my research interests (current and past) include theoretical and computational high energy physics, computational astronomy, and photonics. Occasionally, you might catch me redhanded with a book on biology in my hand.
+I fiddle with all sorts of things, and I fancy the sciences. I had a very turbulent journey while trying to identify my research interests. A few of my research interests (current and past) include theoretical and computational high energy physics, computational astronomy, and photonics. Occasionally, you might catch me redhanded with a book on biology in my hand.
 
 There is a slight chance you might find me admiring chipmunks and sparrows that cohabitate in our surroundings. If not, I might be playing my classical guitar or any other fretted stringed instrument.
 

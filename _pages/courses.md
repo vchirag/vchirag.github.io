@@ -35,7 +35,11 @@ nav: false
 	- Statistical Mechanics
 	- Nuclear and Particle Physics
 	- Atomic and Molecular Physics
-
+	- Quantum Theory of Solids
+	- Fiber and Nonlinear Optics
+	- Advanced Laser Physics
+	- Numerical Methods
+	
 <h2>Mathematics</h2>
 - UG
 	- Calculus
@@ -59,3 +63,4 @@ nav: false
 - PG
 	- Technical Communication 
 	- Atmospheric Physics
+	- Advanced Electroceramics Technology
