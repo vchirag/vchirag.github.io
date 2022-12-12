@@ -11,8 +11,6 @@ importance: 5
 ##### Report(s)
 A brief summary report of the school can be found <a href = "/assets/pdf/jennifer2_school_2021.pdf" title = "jennifer2_school_2021"> here</a>.
 
-Attending the school was enthralling as this was one of the first few instances when I got the motivation (and courage) to delve deep into abstract mathematics, field theories, and particle physics. The thrill and joy of pursuing such excellent subjects still excite me.
-
 A copy of the report of the work can be found <a href = "/assets/pdf/jennifer2_work_2021.pdf" title = "jennifer2_work_2021"> here</a>.
 
 The source code can be found <a href = "https://github.com/vchirag/jpsi/tree/main" title = "jpsi_analysis"> here</a>.  And the corresponding data used for analysis <a href = "https://github.com/vchirag/data_files/releases/tag/jpsi" title = "jpsi_data"> here</a>.
@@ -51,7 +49,10 @@ Next, to implement the RooFit mechanism, the following seeds were passed:
 
 ##### Comments
 
-Apart from some statistical tools, this project introduced me to several academic bureaucracies and how one gets things done within the literary world and the world itself- by being _polite_. I believe the results I obtained are incorrect, and I do not know how to check their accuracy.
+
+Attending the school was enthralling as this was one of the first few instances when I got the motivation (and courage) to delve deep into abstract mathematics, field theories, and particle physics. The thrill and joy of pursuing such excellent subjects still excite me.
+
+Apart from some statistical tools, the post-school project introduced me to several academic bureaucracies and how one gets things done within the literary world and the world itself- by being _polite_. I believe the results I obtained are incorrect, and I do not know how to check their accuracy.
 
 
 
