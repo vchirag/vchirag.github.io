@@ -36,12 +36,10 @@ importance: 2
             <li>Resources:
                 <ol>
                     <li> Simon Gravelle's <a href = "https://lammpstutorials.github.io/" title = "LAMMPS_tuts">tutorials</a>.</li>
-                    <li>Göran Wahnström <a href = "http://fy.chalmers.se/~tfsgw/CompPhys/lectures/MD_LectureNotes_181111.pdf" title = "md_ln"> lecture notes</a></li>
+                    <li>Göran Wahnström <a href = "http://fy.chalmers.se/~tfsgw/CompPhys/lectures/MD_LectureNotes_181111.pdf" title = "md_ln"> lecture notes</a>.</li>
                 </ol>
             </li>
         </ul>        
     </li>
 </ul>
 
-
-<hr>

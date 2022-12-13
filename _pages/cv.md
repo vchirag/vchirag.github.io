@@ -6,6 +6,6 @@ nav: true
 nav_order: 4
 ---
 
-A copy of my academic CV could be found here: <a href = "/assets/pdf/cv.pdf" title = "CV"> CV</a>
+A copy of my academic CV could be found <a href = "/assets/pdf/cv.pdf" title = "CV"> here</a>.
 
 
