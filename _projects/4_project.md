@@ -30,15 +30,11 @@ The project's python environment can be found <a href = "https://github.com/vchi
 ##### Summary
 
 
-As with any analysis work, the data was cleaned and scoured manually for elementary flares. The term elementary flare mathematically represents a _convolution_ of two profiles- a _gaussian_ for the transient rise of activity and a _decaying exponential_ for the short decay of the flare activity.
+As with any analysis, the data was cleaned and scoured manually for elementary flares. The term elementary flare mathematically represents a _convolution_ of two profiles- a _gaussian_ for the transient rise of activity and a _decaying exponential_ for the short decay of the flare activity.
 
 The primary goal of the work was to detect, identify, and analyze any detected solar flare in the XSM data. To our dismay, we couldn't complete the analysis part in the natural period of the project.
 
-The data was cleaned using a boxed car average method- which works surprisingly well for heavily fluctuating data.
-
-This was followed by searching for all local minima and maxima in the data. Furthermore, the background data below a certain level was deleted.
-
-Once through with this, the identified flares were separated from the primary data file. These were later fit for the elementary profile as described previously.
+The data was cleaned using a boxed car average method- which works surprisingly well for heavily fluctuating data. This was followed by searching for all local minima and maxima in the data. Furthermore, the background data below a certain level was deleted. Once through with this, the identified flares were separated from the primary data file. These were later fit for the elementary profile as described previously.
 
 <hr>
 
