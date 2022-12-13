@@ -6,12 +6,11 @@ img: assets/img/neutrino_1.png
 importance: 5
 ---
 
-<hr>
 
 ##### Final Report
 A copy of the final report can be found <a href = "/assets/pdf/neutrino_interaction_2021.pdf" title = "neutrino_interaction_2021_report"> here</a>.
 
-The C (ROOT) codes can be found <a href = "https://github.com/vchirag/ifjpan2021/tree/main/project" title = "neutrino_interaction_2021_code"> here</a>.
+The C (ROOT) codes can be found <a href = "https://github.com/vchirag/ifjpan2021" title = "neutrino_interaction_2021_code"> here</a>.
 
 The MC data can be found <a href = "https://github.com/vchirag/data_files/releases/tag/charged_current_interactions" title = "neutrino_interaction_2021_data"> here</a>.
 
@@ -31,7 +30,7 @@ The MC data can be found <a href = "https://github.com/vchirag/data_files/releas
 Since my code wasn't producing the desired results, the code of the final task is mainly due to my colleague- Caetano Ternes, UFSC, Brazil. 
 
 What did we do? We primarily searched for the desired signals by restricting ourselves to a minimal fiducial volume.
-This was followed by extensive searches for reaction candidates that resulted in the creation of positively charged pion and either one or zero protons.
+This was followed by an extensive search for reaction candidates, which decayed into a  positively charged pion with either one or zero protons.
 
 Various pull variables were used to segregate the data and perform necessary cuts. The reactions were also categorized according to their topologies. Lastly, purity and efficiency were calculated.
 
